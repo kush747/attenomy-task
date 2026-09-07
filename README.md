@@ -232,14 +232,6 @@ curl "http://localhost:8000/api/attendance/summary?month=9&year=2026&department=
 
 ---
 
-## Health Check
-
-```bash
-curl http://localhost:8000/health
-# {"status":"ok","service":"Attenomy HR API","version":"1.0.0"}
-```
-
----
 
 ## Postman Collection
 
